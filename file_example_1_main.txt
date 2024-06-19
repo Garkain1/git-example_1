@@ -1,0 +1,2 @@
+Some text for file_example_1_main.txt
+Added with vi from branch main
