@@ -1,1 +1,1 @@
-Line deleted
+Some new text from merge conflict
