@@ -1,2 +1,4 @@
 Some text for file_example_1.txt
-Added with vi form branch main
+Some text for merge conflict
+Added with vi from branch main
+Added with vi from branch branch2
