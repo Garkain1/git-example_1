@@ -1,7 +1,1 @@
-Some text for file_example_1.txt
 Line deleted
-Some new text for merge conflict from branch branch2
-Added with vi from branch main
-
-Added with vi from branch branch2
-Some new text for merge conflict from main
