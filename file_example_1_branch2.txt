@@ -1,0 +1,2 @@
+Some text for file_example_1_branch2.txt
+Added with vi from branch branch2
